@@ -3,7 +3,7 @@ A single player or multiplayer game of a card game called Jass
 Jass is a traditional swiss card game whose rules can be found [here](https://en.wikipedia.org/wiki/Jass)
 
 ## Game Modes
-To play the game, run the Play.java in your favourite IDE. 
+To play the game, run the Play.java class in your favourite IDE.
 
 ### Single-player
 You will be offered the choice to play a single-player game where you will play against 
