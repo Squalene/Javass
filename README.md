@@ -14,3 +14,6 @@ You can also play remotely with friends, provided that they have the same progra
 ## Sharing
 All of these project dependencies are included in the pom.xml file using Maven dependencies.
 To create a JAR containing all the dependencies and easily share it with a friend, you can run ```mvn clean compile assembly:single```
+
+## Contributors
+[Squalene](https://github.com/Squalene), [loh0um](https://github.com/loh0um)
